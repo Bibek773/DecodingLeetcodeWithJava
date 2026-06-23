@@ -1,4 +1,4 @@
-package MedianOfTwoShortedArray_4;
+package MedianOfTwoSortedArray_4;
 
 import java.util.Arrays;
 class Solution {
